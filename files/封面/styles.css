@@ -58,19 +58,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'楷体 Regular', '楷体';
+  font-family:'楷体';
   font-weight:400;
   font-style:normal;
+  font-size:18px;
 }
 #u2 {
   position:absolute;
-  left:229px;
-  top:276px;
+  left:271px;
+  top:279px;
   width:424px;
   height:21px;
-  font-family:'楷体 Regular', '楷体';
+  font-family:'楷体';
   font-weight:400;
   font-style:normal;
+  font-size:18px;
 }
 #u3 {
   position:absolute;

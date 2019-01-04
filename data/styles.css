@@ -9,7 +9,12 @@
 }
 ._图片 {
 }
+.placeholder {
+}
 .button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -92,6 +97,9 @@
 }
 .checkbox {
   text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 ._图片_ {
 }
